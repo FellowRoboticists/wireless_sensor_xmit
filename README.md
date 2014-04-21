@@ -9,6 +9,6 @@ Copyright
 
 Copyright (c) 2014 Dave Sieh
 
-The DHT library and VirtualWire libraries are licensed and copyrighted separately.
+The VirtualWire library is licensed and copyrighted separately.
 
 See LICENSE.txt for details.
